@@ -84,3 +84,6 @@ If these conditions are met, feel free to open a PR!
   
 * **[Pastel](https://github.com/vadimdemedes/pastel)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   🎨 Framework for effortlessly building Ink apps
+  
+  **[Vagga](https://github.com/tailhook/vagga)** by [Paul Colomiets](https://github.com/tailhook) <br>
+  Tool to create development environments.
