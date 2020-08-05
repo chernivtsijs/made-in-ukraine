@@ -39,3 +39,9 @@
 
 * **[ES6 Shim](https://github.com/paulmillr/es6-shim)** by [Paul Miller](https://github.com/paulmillr)<br>
   ECMAScript 6 compatibility shims for legacy JS engines
+
+* **[Codeception](https://github.com/Codeception/Codeception)** by [Michael Bodnarchuk](https://github.com/DavertMik)<br>
+  Full-stack testing PHP framework
+  
+* **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** by [Michael Bodnarchuk](https://github.com/DavertMik)<br>
+  Supercharged End 2 End Testing Framework for NodeJS
