@@ -20,13 +20,22 @@
 
 ## > 5K ⭐️
 
+* **[Brunch](https://github.com/brunch/brunch)** by by [Paul Miller](https://github.com/paulmillr) and [Alexey Shvayka](https://github.com/shvaikalesh)<br>
+  🚀⭐ A Zsh prompt for Astronauts
+
 ## > 1K ⭐️
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+
+* **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
+  An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 
 * **[bash-handbook](https://github.com/denysdovhan/bash-handbook)** by [Denys Dovhan](https://github.com/denysdovhan)<br>
   📖 For those who wanna learn Bash
 
 * **[NanoNeuron](https://github.com/trekhleb/nano-neuron)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
+
+* **[ES6 Shim](https://github.com/paulmillr/es6-shim)** by [Paul Miller](https://github.com/paulmillr)<br>
+  ECMAScript 6 compatibility shims for legacy JS engines
