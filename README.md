@@ -1,4 +1,4 @@
-# 🇺🇦 Awesome Made by Ukrainians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🇺🇦 Made in Ukraine
 
 > Curating the best projects that were made and mainly contributed by Ukrainian developers
 
