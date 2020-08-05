@@ -18,6 +18,9 @@
 * **[Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)** by [Denys Dovhan](https://github.com/denysdovhan)<br>
   🚀⭐ A Zsh prompt for Astronauts
 
+* **[Leaflet](https://github.com/Leaflet/Leaflet)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  🍃 JavaScript library for mobile-friendly interactive maps
+
 ## > 5K ⭐️
 
 * **[Brunch](https://github.com/brunch/brunch)** by by [Paul Miller](https://github.com/paulmillr) and [Alexey Shvayka](https://github.com/shvaikalesh)<br>
@@ -45,3 +48,15 @@
   
 * **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** by [Michael Bodnarchuk](https://github.com/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
+  
+* **[Bullshit.js](https://github.com/mourner/bullshit.js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  A bookmarklet for translating marketing speak into human-readable text. 💩
+  
+* **[RBush](https://github.com/mourner/rbush)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
+  
+* **[SunCalc](https://github.com/mourner/suncalc)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  A tiny JavaScript library for calculating sun/moon positions and phases.
+  
+* **[Simplify.js](https://github.com/mourner/simplify-js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  High-performance JavaScript polyline simplification library
