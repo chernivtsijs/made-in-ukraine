@@ -44,6 +44,9 @@ If these conditions are met, feel free to open a PR!
 
 ## > 5K ⭐️
 
+* **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
+  An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
+
 * **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
@@ -51,9 +54,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-
-* **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
-  An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 
 * **[bash-handbook](https://github.com/denysdovhan/bash-handbook)** by [Denys Dovhan](https://github.com/denysdovhan)<br>
   📖 For those who wanna learn Bash
