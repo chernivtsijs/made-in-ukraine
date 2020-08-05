@@ -10,9 +10,10 @@ Moreover, lots of Ukrainian developers don't even know about their fellow citize
 
 This list includes projects under this criteria:
 
-1. The project's creator or maintainer was bord in Ukraine
-2. The project creator or maintainer self-identify themselves as Ukrainian
-3. The project is hosted under organization profile and has Ukrainians under Top 5 contributors, if other contributors don't mind.
+1. The project has over 1K stars
+2. The project's creator or maintainer was bord in Ukraine
+3. The project creator or maintainer self-identify themselves as Ukrainian
+4. The project is hosted under organization profile and has Ukrainians under Top 5 contributors, if other contributors don't mind.
 
 If these conditions are met, feel free to open a PR!
 
