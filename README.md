@@ -22,9 +22,15 @@ If these conditions are met, feel free to open a PR!
   📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ## > 10K ⭐️
-  
+
 * **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+
+* **[AVA](https://github.com/avajs/ava)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
+  Node.js test runner that lets you develop with confidence 🚀
+
+* **[Ink](https://github.com/vadimdemedes/ink)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
+  🌈 React for interactive command-line apps
 
 * **[wtfjs: What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)** by [Denys Dovhan](https://github.com/denysdovhan)<br>
   🤪 A list of funny and tricky JavaScript examples
@@ -74,3 +80,6 @@ If these conditions are met, feel free to open a PR!
   
 * **[Simplify.js](https://github.com/mourner/simplify-js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   High-performance JavaScript polyline simplification library
+  
+* **[Pastel](https://github.com/vadimdemedes/pastel)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
+  🎨 Framework for effortlessly building Ink apps
