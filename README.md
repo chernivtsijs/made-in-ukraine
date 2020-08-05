@@ -2,6 +2,20 @@
 
 > Curating the best projects that were made and mainly contributed by Ukrainian developers
 
+## Motivation
+
+Open source software is a multicultural product of global culture. When you install/use a piece of software, you rarely think of person who created it. Nevertheless, each creator has it's national and cultural context. Our goal is to highlight Ukrainian part of your `package.json`, `requirements.txt`, `Gemfile`, etc.
+
+Moreover, lots of Ukrainian developers don't even know about their fellow citizens creating popular projects. It makes you proud when you undestand how much Ukrainians contribute to global software culture.
+
+This list includes projects under this criteria:
+
+1. The project's creator or maintainer was bord in Ukraine
+2. The project creator or maintainer self-identify themselves as Ukrainian
+3. The project is hosted under organization profile and has Ukrainians under Top 5 contributors, if other contributors don't mind.
+
+If these conditions are met, feel free to open a PR!
+
 ## > 50K
 
 * **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
