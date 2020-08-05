@@ -37,8 +37,8 @@ If these conditions are met, feel free to open a PR!
 
 ## > 5K ⭐️
 
-* **[Brunch](https://github.com/brunch/brunch)** by by [Paul Miller](https://github.com/paulmillr) and [Alexey Shvayka](https://github.com/shvaikalesh)<br>
-  🚀⭐ A Zsh prompt for Astronauts
+* **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/paulmillr)<br>
+  🍴 An opinionated developer-friendly build tool for modern front-end apps
 
 ## > 1K ⭐️
 
