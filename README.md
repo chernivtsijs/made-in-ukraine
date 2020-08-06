@@ -4,14 +4,14 @@
 
 ## Motivation
 
-Open source software is a multicultural product of global culture. When you install/use a piece of software, you rarely think of person who created it. Nevertheless, each creator has it's national and cultural context. Our goal is to highlight Ukrainian part of your `package.json`, `requirements.txt`, `Gemfile`, etc.
+Open source software is a multicultural product. When you install/use a piece of software, you rarely think of a person who created it. Nevertheless, each creator has its national and cultural context. Our goal is to highlight the Ukrainian part of your `package.json`, `requirements.txt`, `Gemfile`, etc.
 
 Moreover, lots of Ukrainian developers don't even know about their fellow citizens creating popular projects. It makes you proud when you undestand how much Ukrainians contribute to global software culture.
 
 This list includes projects under this criteria:
 
 1. The project has over 1K stars
-2. The project's creator or maintainer was bord in Ukraine
+2. The project's creator or maintainer was born in Ukraine
 3. The project creator or maintainer self-identify themselves as Ukrainian
 4. The project is hosted under organization profile and has Ukrainians under Top 5 contributors, if other contributors don't mind.
 
