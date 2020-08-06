@@ -50,6 +50,9 @@ If these conditions are met, feel free to open a PR!
 * **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
+* **[Che](https://github.com/eclipse/che)** by [Serhii Leshchenko](https://github.com/sleshchenko)<br>
+  Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
+
 ## > 1K ⭐️
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
