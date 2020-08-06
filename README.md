@@ -87,3 +87,6 @@ If these conditions are met, feel free to open a PR!
   
 * **[Vagga](https://github.com/tailhook/vagga)** by [Paul Colomiets](https://github.com/tailhook) <br>
   Tool to create development environments.
+ 
+* **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/komarserjio) <br>
+  For those who wanna learn new server-side framework.
