@@ -17,7 +17,7 @@ This list includes projects under this criteria:
 
 If these conditions are met, feel free to open a PR!
 
-## > 50K
+## > 50K ⭐️
 
 * **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -50,6 +50,9 @@ If these conditions are met, feel free to open a PR!
 * **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
+* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/vshymanskyy)<br>
+  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+
 ## > 1K ⭐️
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
@@ -66,27 +69,27 @@ If these conditions are met, feel free to open a PR!
 
 * **[Codeception](https://github.com/Codeception/Codeception)** by [Michael Bodnarchuk](https://github.com/DavertMik)<br>
   Full-stack testing PHP framework
-  
+
 * **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** by [Michael Bodnarchuk](https://github.com/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
-  
+
 * **[Bullshit.js](https://github.com/mourner/bullshit.js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   A bookmarklet for translating marketing speak into human-readable text. 💩
-  
+
 * **[RBush](https://github.com/mourner/rbush)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
-  
+
 * **[SunCalc](https://github.com/mourner/suncalc)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   A tiny JavaScript library for calculating sun/moon positions and phases.
-  
+
 * **[Simplify.js](https://github.com/mourner/simplify-js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   High-performance JavaScript polyline simplification library
-  
+
 * **[Pastel](https://github.com/vadimdemedes/pastel)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   🎨 Framework for effortlessly building Ink apps
-  
+
 * **[Vagga](https://github.com/tailhook/vagga)** by [Paul Colomiets](https://github.com/tailhook) <br>
   Tool to create development environments.
- 
+
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/komarserjio) <br>
   For those who wanna learn new server-side framework.
