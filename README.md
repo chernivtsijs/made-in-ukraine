@@ -50,9 +50,6 @@ If these conditions are met, feel free to open a PR!
 * **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
-* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/vshymanskyy)<br>
-  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
-
 ## > 1K ⭐️
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
@@ -93,3 +90,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/komarserjio) <br>
   For those who wanna learn new server-side framework.
+
+* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/vshymanskyy)<br>
+  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
