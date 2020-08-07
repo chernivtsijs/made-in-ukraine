@@ -41,6 +41,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[Leaflet](https://github.com/Leaflet/Leaflet)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   🍃 JavaScript library for mobile-friendly interactive maps
+  
+* **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)** by [Dmitry Semenov](https://github.com/dimsemenov)<br>
+  🖼 JavaScript image gallery
 
 ## > 5K ⭐️
 
