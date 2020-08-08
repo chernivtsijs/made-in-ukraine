@@ -41,7 +41,7 @@ If these conditions are met, feel free to open a PR!
 
 * **[Leaflet](https://github.com/Leaflet/Leaflet)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   🍃 JavaScript library for mobile-friendly interactive maps
-  
+
 * **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)** by [Dmitry Semenov](https://github.com/dimsemenov)<br>
   🖼 JavaScript image gallery
 
@@ -76,6 +76,24 @@ If these conditions are met, feel free to open a PR!
 * **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** by [Michael Bodnarchuk](https://github.com/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
 
+* **[Pixelmatch](https://github.com/mapbox/pixelmatch)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  The smallest, simplest and fastest JavaScript pixel-level image comparison library
+
+* **[Earcut](https://github.com/mapbox/earcut)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
+
+* **[Delaunator](https://github.com/mapbox/delaunator)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  An incredibly fast JavaScript library for Delaunay triangulation of 2D points
+
+* **[SuperCluster](https://github.com/mapbox/supercluster)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  A very fast geospatial point clustering library for browsers and Node
+
+* **[GeoJson-VT](https://github.com/mapbox/geojson-vt)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+  Slice GeoJSON into vector tiles on the fly in the browser
+
+* **[FlameBearer](https://github.com/mapbox/flamebearer)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
+   Blazing fast flame graph tool for V8 and Node 🔥
+
 * **[Bullshit.js](https://github.com/mourner/bullshit.js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   A bookmarklet for translating marketing speak into human-readable text. 💩
 
@@ -88,6 +106,9 @@ If these conditions are met, feel free to open a PR!
 * **[Simplify.js](https://github.com/mourner/simplify-js)** by [Vladimir Agafonkin](https://github.com/mourner)<br>
   High-performance JavaScript polyline simplification library
 
+* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/vshymanskyy)<br>
+  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+
 * **[Pastel](https://github.com/vadimdemedes/pastel)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   🎨 Framework for effortlessly building Ink apps
 
@@ -96,6 +117,3 @@ If these conditions are met, feel free to open a PR!
 
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/komarserjio) <br>
   For those who wanna learn new server-side framework.
-
-* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/vshymanskyy)<br>
-  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
