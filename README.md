@@ -123,3 +123,26 @@ If these conditions are met, feel free to open a PR!
 
 * **[hekel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/JSMonk) <br>
   An advanced static type checker
+
+## Related projects
+
+* 🇦🇹 [made-in-austria](https://github.com/IonicaBizau/made-in-austria )
+* 🇧🇦 [made-in-bosnia](https://github.com/IonicaBizau/made-in-bosnia)
+* 🇧🇩 [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
+* 🇧🇯 [made-in-benin](https://github.com/0l1v3r5/made-in-benin)
+* 🇧🇷 [made-in-brazil](https://github.com/IonicaBizau/made-in-brazil)
+* 🇨🇦 [made-in-canada](https://github.com/suguru03/made-in-canada)
+* 🇨🇴 [made-in-colombia](https://github.com/IonicaBizau/made-in-colombia)
+* 🇬🇭 [made-in-ghana](https://github.com/devcongress/made-in-ghana)
+* 🇮🇳 [made-in-india](https://github.com/IonicaBizau/made-in-india)
+* 🇮🇷 [made-in-iran](https://github.com/mohebifar/made-in-iran)
+* 🇯🇵 [made-in-japan](https://github.com/suguru03/made-in-japan)
+* 🇱🇻 [made-in-latvia](https://github.com/ummahusla/made-in-latvia)
+* 🇲🇺 [made-in-mauritius](https://github.com/Humeira/made-in-mauritius)
+* 🇳🇬 [made-in-nigeria](https://github.com/acekyd/made-in-nigeria)
+* 🇵🇱 [made-in-poland](https://github.com/IonicaBizau/made-in-poland)
+* 🇷🇴 [made-in-romania](https://github.com/IonicaBizau/made-in-romania)
+* 🇸🇳 [made-in-senegal](https://github.com/JoloffCode/made-in-senegal)
+* 🇹🇷 [made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
+* 🇹🇼 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan)
+* 🇿🇲 [made-in-zambia](https://github.com/ZambianTech/made-in-zambia)
