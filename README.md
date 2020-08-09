@@ -117,3 +117,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/komarserjio) <br>
   For those who wanna learn new server-side framework.
+
+* **[hekel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/JSMonk) <br>
+  An advanced static type checker
