@@ -55,7 +55,7 @@ If these conditions are met, feel free to open a PR!
 
 * **[Che](https://github.com/eclipse/che)** by [Serhii Leshchenko](https://github.com/sleshchenko)<br>
   Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
-  
+
 * **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** by [Dmitriy Shekhovtsov](https://github.com/valorkin)<br>
   Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
 
@@ -121,7 +121,7 @@ If these conditions are met, feel free to open a PR!
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/komarserjio) <br>
   For those who wanna learn new server-side framework.
 
-* **[hekel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/JSMonk) <br>
+* **[hegel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/JSMonk) <br>
   An advanced static type checker
 
 ## Related projects
