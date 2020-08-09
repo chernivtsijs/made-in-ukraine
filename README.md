@@ -55,6 +55,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[Che](https://github.com/eclipse/che)** by [Serhii Leshchenko](https://github.com/sleshchenko)<br>
   Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
+  
+* **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** by [Dmitriy Shekhovtsov](https://github.com/valorkin)<br>
+  Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
 
 ## > 1K ⭐️
 
