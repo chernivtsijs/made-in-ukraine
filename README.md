@@ -129,6 +129,7 @@ If these conditions are met, feel free to open a PR!
 * 🇦🇹 [made-in-austria](https://github.com/IonicaBizau/made-in-austria )
 * 🇧🇦 [made-in-bosnia](https://github.com/IonicaBizau/made-in-bosnia)
 * 🇧🇩 [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
+* 🇧🇾 [made-in-belarus](https://github.com/IonicaBizau/made-in-belarus)
 * 🇧🇯 [made-in-benin](https://github.com/0l1v3r5/made-in-benin)
 * 🇧🇷 [made-in-brazil](https://github.com/IonicaBizau/made-in-brazil)
 * 🇨🇦 [made-in-canada](https://github.com/suguru03/made-in-canada)
