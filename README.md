@@ -50,6 +50,9 @@ If these conditions are met, feel free to open a PR!
 
 ## > 5K ⭐️
 
+* **[pnpm](https://github.com/pnpm/pnpm)** by [Zoltan Kochan](https://github.com/zkochan)<br>
+  📦🚀 Fast, disk space efficient package manager
+
 * **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
   An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 
