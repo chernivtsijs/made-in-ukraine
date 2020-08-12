@@ -45,6 +45,9 @@ If these conditions are met, feel free to open a PR!
 * **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)** by [Dmitry Semenov](https://github.com/dimsemenov)<br>
   🖼 JavaScript image gallery
 
+* **[Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager)** by [Igor Malinovskiy](https://github.com/uglide)<br>
+  Cross-platform GUI management tool for Redis
+
 ## > 5K ⭐️
 
 * **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
