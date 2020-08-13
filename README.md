@@ -130,6 +130,12 @@ If these conditions are met, feel free to open a PR!
 * **[hegel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/JSMonk) <br>
   An advanced static type checker
 
+
+## Articles about Ukrainian open source
+
+* [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
+* [«Наши» на GitHub: рейтинг | DOU](https://dou.ua/lenta/articles/github-top-10/)
+
 ## Related projects
 
 * 🇦🇹 [made-in-austria](https://github.com/IonicaBizau/made-in-austria )
