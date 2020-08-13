@@ -125,12 +125,10 @@ If these conditions are met, feel free to open a PR!
   An advanced static type checker
 
 
-## Articles about open source contributors
+## Articles about Ukrainian open source
 
-[GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
-
-[«Наши» на GitHub: рейтинг | DOU](https://dou.ua/lenta/articles/github-top-10/)
-
+* [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
+* [«Наши» на GitHub: рейтинг | DOU](https://dou.ua/lenta/articles/github-top-10/)
 
 ## Related projects
 
@@ -154,5 +152,3 @@ If these conditions are met, feel free to open a PR!
 * 🇹🇷 [made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
 * 🇹🇼 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan)
 * 🇿🇲 [made-in-zambia](https://github.com/ZambianTech/made-in-zambia)
-
-
