@@ -159,3 +159,7 @@ If these conditions are met, feel free to open a PR!
 * 🇹🇷 [made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
 * 🇹🇼 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan)
 * 🇿🇲 [made-in-zambia](https://github.com/ZambianTech/made-in-zambia)
+
+## License
+
+[CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) © ChernivtsiJS Team
