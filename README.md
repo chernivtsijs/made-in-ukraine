@@ -130,6 +130,8 @@ If these conditions are met, feel free to open a PR!
 * **[hegel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/JSMonk) <br>
   An advanced static type checker
 
+* **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/ivankravets) <br>
+  PlatformIO is a professional collaborative platform for embedded development
 
 ## Articles about Ukrainian open source
 
