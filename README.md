@@ -48,6 +48,10 @@ If these conditions are met, feel free to open a PR!
 * **[Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager)** by [Igor Malinovskiy](https://github.com/uglide)<br>
   Cross-platform GUI management tool for Redis
 
+* **[Aiohttp](https://github.com/aio-libs/aiohttp)** by [Andrew Svetlov](https://github.com/asvetlov)<br>
+  Asynchronous HTTP client/server framework for asyncio and Python
+
+
 ## > 5K ⭐️
 
 * **[pnpm](https://github.com/pnpm/pnpm)** by [Zoltan Kochan](https://github.com/zkochan)<br>
