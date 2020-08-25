@@ -69,6 +69,9 @@ If these conditions are met, feel free to open a PR!
 * **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** by [Dmitriy Shekhovtsov](https://github.com/valorkin)<br>
   Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
 
+* **[Resilience4J](https://github.com/resilience4j/resilience4j)** by [Bohdan Storohuk](https://github.com/storozhukBM)<br>
+  Fault tolerance library for Java
+
 ## > 1K ⭐️
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
