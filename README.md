@@ -137,6 +137,9 @@ If these conditions are met, feel free to open a PR!
 * **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/ivankravets) <br>
   PlatformIO is a professional collaborative platform for embedded development
 
+* **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** by [Dmitriy Kovalenko](https://github.com/dmtrKovalenko) <br>
+  Accessible, customizable, delightful date & time pickers for material-ui
+
 ## Articles about Ukrainian open source
 
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
