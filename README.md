@@ -140,6 +140,9 @@ If these conditions are met, feel free to open a PR!
 * **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** by [Dmitriy Kovalenko](https://github.com/dmtrKovalenko) <br>
   Accessible, customizable, delightful date & time pickers for material-ui
 
+* **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/glushchenko) <br>
+  FSNotes is modern notes manager for macOS and iOS.
+  
 ## Articles about Ukrainian open source
 
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
