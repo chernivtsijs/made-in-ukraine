@@ -137,7 +137,7 @@ If these conditions are met, feel free to open a PR!
 * **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/ivankravets) <br>
   PlatformIO is a professional collaborative platform for embedded development
 
-* **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/glushchenko/fsnotes) <br>
+* **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/glushchenko) <br>
   FSNotes is modern notes manager for macOS and iOS.
   
 ## Articles about Ukrainian open source
