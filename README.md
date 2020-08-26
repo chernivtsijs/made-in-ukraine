@@ -137,6 +137,9 @@ If these conditions are met, feel free to open a PR!
 * **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/ivankravets) <br>
   PlatformIO is a professional collaborative platform for embedded development
 
+* **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** by [Dmitriy Kovalenko](https://github.com/dmtrKovalenko) <br>
+  Accessible, customizable, delightful date & time pickers for material-ui
+
 * **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/glushchenko) <br>
   FSNotes is modern notes manager for macOS and iOS.
   
