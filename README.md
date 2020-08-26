@@ -21,9 +21,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-  
-* **[AlgoVPN](https://github.com/trailofbits/algo)** by [Jack Ivanov](https://github.com/jackivanov) / [TrailOfBits](https://github.com/trailofbits)  
-  📝 Set up a personal VPN in the cloud at the push of a button  
 
 ## > 10K ⭐️
 
@@ -32,6 +29,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[AVA](https://github.com/avajs/ava)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   Node.js test runner that lets you develop with confidence 🚀
+
+* **[AlgoVPN](https://github.com/trailofbits/algo)** by [Jack Ivanov](https://github.com/jackivanov) / [TrailOfBits](https://github.com/trailofbits)  
+  📝 Set up a personal VPN in the cloud at the push of a button  
 
 * **[Ink](https://github.com/vadimdemedes/ink)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   🌈 React for interactive command-line apps
