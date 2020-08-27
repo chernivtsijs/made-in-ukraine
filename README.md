@@ -54,7 +54,6 @@ If these conditions are met, feel free to open a PR!
 * **[Aiohttp](https://github.com/aio-libs/aiohttp)** by [Andrew Svetlov](https://github.com/asvetlov)<br>
   Asynchronous HTTP client/server framework for asyncio and Python
 
-
 ## > 5K ⭐️
 
 * **[pnpm](https://github.com/pnpm/pnpm)** by [Zoltan Kochan](https://github.com/zkochan)<br>
@@ -74,6 +73,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[Resilience4J](https://github.com/resilience4j/resilience4j)** by [Bohdan Storohuk](https://github.com/storozhukBM)<br>
   Fault tolerance library for Java
+
+* **[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
+  Android Circular Progress Button
 
 ## > 1K ⭐️
 
@@ -148,7 +150,19 @@ If these conditions are met, feel free to open a PR!
 
 * **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/glushchenko) <br>
   FSNotes is modern notes manager for macOS and iOS.
-  
+
+* **[android-progress-button](https://github.com/dmytrodanylyk/android-process-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
+  Android Buttons With Built-in Progress Meters.
+
+* **[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
+  Android Shadow Layout
+
+* **[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
+  Android File Grouping Plugin
+
+* **[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
+  Android button which can morph from one shape to another.
+
 ## Articles about Ukrainian open source
 
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
