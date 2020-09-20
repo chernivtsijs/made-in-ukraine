@@ -163,6 +163,9 @@ If these conditions are met, feel free to open a PR!
 * **[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
   Android button which can morph from one shape to another.
 
+* **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/leits)<br>
+  MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
+
 ## Articles about Ukrainian open source
 
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
