@@ -169,6 +169,9 @@ If these conditions are met, feel free to open a PR!
 * **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)** by [Alexey Golub](https://github.com/tyrrrz)<br>
   The ultimate dirty YouTube library (.NET).
 
+* **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/leits)<br>
+  MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
+
 ## Articles about Ukrainian open source
 
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
