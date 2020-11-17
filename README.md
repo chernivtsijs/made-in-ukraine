@@ -162,6 +162,12 @@ If these conditions are met, feel free to open a PR!
 
 * **[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
   Android button which can morph from one shape to another.
+  
+* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)** by [Alexey Golub](https://github.com/tyrrrz)<br>
+  Exports Discord chat logs to a file.
+  
+* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)** by [Alexey Golub](https://github.com/tyrrrz)<br>
+  The ultimate dirty YouTube library (.NET).
 
 ## Articles about Ukrainian open source
 
