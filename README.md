@@ -24,6 +24,9 @@ If these conditions are met, feel free to open a PR!
 
 ## > 10K ⭐️
 
+* **[Ansible](https://github.com/ansible/ansible)** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) who is a member of the Ansible Core Engineering team as a part of his day job at Red Hat<br>
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. It is mainly written in Python.
+
 * **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
