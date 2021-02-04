@@ -172,6 +172,9 @@ If these conditions are met, feel free to open a PR!
 * **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/leits)<br>
   MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
 
+* **[CherryPy](https://github.com/cherrypy/cherrypy)** maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+  A Minimalist Python Web Framework.
+
 ## Articles about Ukrainian open source
 
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
