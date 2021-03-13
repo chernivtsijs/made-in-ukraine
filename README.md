@@ -51,7 +51,7 @@ If these conditions are met, feel free to open a PR!
 * **[Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager)** by [Igor Malinovskiy](https://github.com/uglide)<br>
   Cross-platform GUI management tool for Redis
 
-* **[Aiohttp](https://github.com/aio-libs/aiohttp)** by [Andrew Svetlov](https://github.com/asvetlov) and co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+* **[Aiohttp](https://github.com/aio-libs/aiohttp)** by [Andrew Svetlov](https://github.com/asvetlov) and [Sviatoslav Sydorenko](https://github.com/webknjaz)<br>
   Asynchronous HTTP client/server framework for asyncio and Python
 
 ## > 5K ⭐️
