@@ -24,7 +24,7 @@ If these conditions are met, feel free to open a PR!
 
 ## > 10K ⭐️
 
-* **[Ansible](https://github.com/ansible/ansible)** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) / [Red Hat](https://redhat.com)<br>
+* **[Ansible](https://github.com/ansible/ansible)** co-maintained by [Sviatoslav Sydorenko](https://github.com/webknjaz) / [Red Hat](https://redhat.com)<br>
   Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain.
 
 * **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
