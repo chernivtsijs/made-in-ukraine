@@ -180,6 +180,7 @@ If these conditions are met, feel free to open a PR!
 
 ## Articles about Ukrainian open source
 
+* [Заробите гарну репутацію — вам більше не знадобиться LinkedIn. Українські розробники — про переваги участі в опенсорсі | DOU](https://dou.ua/lenta/articles/open-source-in-ukraine/)
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
 * [«Наши» на GitHub: рейтинг | DOU](https://dou.ua/lenta/articles/github-top-10/)
 
