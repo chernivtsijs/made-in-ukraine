@@ -80,6 +80,9 @@ If these conditions are met, feel free to open a PR!
 * **[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
   Android Circular Progress Button
 
+* **[jscpd](https://github.com/kucherenko/jscpd)** by [Andrey Kucherenko](https://github.com/kucherenko)<br>
+  Copy/paste detector for programming source code.
+
 ## > 1K ⭐️
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
