@@ -82,6 +82,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[jscpd](https://github.com/kucherenko/jscpd)** by [Andrey Kucherenko](https://github.com/kucherenko)<br>
   Copy/paste detector for programming source code.
+  
+* **[nestjsx/crud](https://github.com/nestjsx/crud) by [Micheal Yali](https://github.com/zMotivat0r)<br />
+  A crud solution for nestjs making crud operations easier to develop.
 
 ## > 1K ⭐️
 
