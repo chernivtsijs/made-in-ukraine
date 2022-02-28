@@ -97,6 +97,9 @@ If these conditions are met, feel free to open a PR!
 * **[NanoNeuron](https://github.com/trekhleb/nano-neuron)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
 
+* **[jsDelivr](https://github.com/jsdelivr)** by [Dmytro Akulov](https://github.com/jimaek)<br>
+  🌍 jsDelivr offers a free CDN for open source developers and an API to better interact with NPM and JS projects
+
 * **[ES6 Shim](https://github.com/paulmillr/es6-shim)** by [Paul Miller](https://github.com/paulmillr)<br>
   ECMAScript 6 compatibility shims for legacy JS engines
 
