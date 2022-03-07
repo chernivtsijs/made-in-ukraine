@@ -57,6 +57,9 @@ If these conditions are met, feel free to open a PR!
 * **[Aiohttp](https://github.com/aio-libs/aiohttp)** by [Andrew Svetlov](https://github.com/asvetlov) and [Sviatoslav Sydorenko](https://github.com/webknjaz)<br>
   Asynchronous HTTP client/server framework for asyncio and Python
 
+* **[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)** by [Alexander Shemetovskiy](https://github.com/alexkval)<br>
+  ✈️ Bootstrap components built with React.
+
 ## > 5K ⭐️
 
 * **[pnpm](https://github.com/pnpm/pnpm)** by [Zoltan Kochan](https://github.com/zkochan)<br>
