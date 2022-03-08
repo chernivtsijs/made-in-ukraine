@@ -207,6 +207,7 @@ If these conditions are met, feel free to open a PR!
 * 🇮🇳 [made-in-india](https://github.com/IonicaBizau/made-in-india)
 * 🇮🇷 [made-in-iran](https://github.com/mohebifar/made-in-iran)
 * 🇯🇵 [made-in-japan](https://github.com/suguru03/made-in-japan)
+* 🇰🇷 [made-in-korea](https://github.com/738/made-in-korea)
 * 🇱🇻 [made-in-latvia](https://github.com/ummahusla/made-in-latvia)
 * 🇲🇺 [made-in-mauritius](https://github.com/Humeira/made-in-mauritius)
 * 🇳🇬 [made-in-nigeria](https://github.com/acekyd/made-in-nigeria)
