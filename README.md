@@ -214,7 +214,7 @@ If these conditions are met, feel free to open a PR!
 * 🇷🇴 [made-in-romania](https://github.com/IonicaBizau/made-in-romania)
 * 🇸🇳 [made-in-senegal](https://github.com/JoloffCode/made-in-senegal)
 * 🇹🇷 [made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
-* 🇹🇼 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan)
+* 🇨🇳 [made-in-taiwan](https://github.com/hueitan/made-in-taiwan)
 * 🇿🇲 [made-in-zambia](https://github.com/ZambianTech/made-in-zambia)
 
 ## License
