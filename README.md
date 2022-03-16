@@ -186,6 +186,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[CherryPy](https://github.com/cherrypy/cherrypy)** by [Sviatoslav Sydorenko](https://github.com/webknjaz)<br>
   A Minimalist Python Web Framework.
+  
+* **[Vite Electron Builder Boilerplate](https://github.com/cawa-93/vite-electron-builder)** by [Alex Kozack](https://github.com/cawa-93)<br>
+  Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 
 ## Articles about Ukrainian open source
 
