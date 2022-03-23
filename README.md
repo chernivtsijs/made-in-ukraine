@@ -83,8 +83,11 @@ If these conditions are met, feel free to open a PR!
 * **[jscpd](https://github.com/kucherenko/jscpd)** by [Andrey Kucherenko](https://github.com/kucherenko)<br>
   Copy/paste detector for programming source code.
   
-* **[nestjsx/crud](https://github.com/nestjsx/crud) by [Micheal Yali](https://github.com/zMotivat0r)<br />
+* **[nestjsx/crud](https://github.com/nestjsx/crud)** by [Micheal Yali](https://github.com/zMotivat0r)<br />
   A crud solution for nestjs making crud operations easier to develop.
+  
+* **[Mock Service Worker](https://github.com/mswjs/msw)** by [Artem Zakharchenko](https://github.com/kettanaito)<br />
+  Seamless REST/GraphQL API mocking library for browser and Node.js.
 
 ## > 1K ⭐️
 
