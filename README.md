@@ -181,11 +181,23 @@ If these conditions are met, feel free to open a PR!
 * **[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)** by [Dmytro Danylyk](https://github.com/dmytrodanylyk)<br>
   Android button which can morph from one shape to another.
   
-* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)** by [Alexey Golub](https://github.com/tyrrrz)<br>
+* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)** by [Oleksii Holub](https://github.com/tyrrrz)<br>
   Exports Discord chat logs to a file.
+
+* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** by [Oleksii Holub](https://github.com/tyrrrz)<br>
+  Downloads videos and playlists from YouTube.
   
-* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)** by [Alexey Golub](https://github.com/tyrrrz)<br>
+* **[LightBulb](https://github.com/Tyrrrz/LightBulb)** by [Oleksii Holub](https://github.com/tyrrrz)<br>
+  Reduces eye strain by adjusting gamma based on the current time.
+
+* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)** by [Oleksii Holub](https://github.com/tyrrrz)<br>
   The ultimate dirty YouTube library (.NET).
+
+* **[CliWrap](https://github.com/Tyrrrz/CliWrap)** by [Oleksii Holub](https://github.com/tyrrrz)<br>
+  Library for running command line processes (.NET).
+  
+* **[CliFx](https://github.com/Tyrrrz/CliFx)** by [Oleksii Holub](https://github.com/tyrrrz)<br>
+  Declarative framework for building command line interfaces (.NET).
 
 * **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/leits)<br>
   MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
