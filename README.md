@@ -94,6 +94,9 @@ If these conditions are met, feel free to open a PR!
 
 ## > 1K ⭐️
 
+* **[uashield](https://github.com/opengs/uashield)** by [opengs](https://github.com/opengs)<br>
+  🇺🇦 Voluntary Ukraine security platform to protect us from Russian forces in the Internet
+
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
