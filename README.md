@@ -17,10 +17,12 @@ This list includes projects under this criteria:
 
 If these conditions are met, feel free to open a PR!
 
-## > 50K ⭐️
+## > 100K ⭐️
 
 * **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+## > 50K ⭐️
 
 * **[Ansible](https://github.com/ansible/ansible)** co-maintained by [Sviatoslav Sydorenko](https://github.com/webknjaz) / [Red Hat](https://redhat.com)<br>
   Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain.
@@ -29,6 +31,9 @@ If these conditions are met, feel free to open a PR!
 
 * **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+
+* **[pnpm](https://github.com/pnpm/pnpm)** by [Zoltan Kochan](https://github.com/zkochan)<br>
+  📦🚀 Fast, disk space efficient package manager
 
 * **[AVA](https://github.com/avajs/ava)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   Node.js test runner that lets you develop with confidence 🚀
@@ -61,9 +66,6 @@ If these conditions are met, feel free to open a PR!
   ✈️ Bootstrap components built with React.
 
 ## > 5K ⭐️
-
-* **[pnpm](https://github.com/pnpm/pnpm)** by [Zoltan Kochan](https://github.com/zkochan)<br>
-  📦🚀 Fast, disk space efficient package manager
 
 * **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
   An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
