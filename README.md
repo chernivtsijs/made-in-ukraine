@@ -68,6 +68,9 @@ If these conditions are met, feel free to open a PR!
 * **[redoc](https://github.com/Redocly/redoc)** by [Roman Hotsiy](https://github.com/RomanHotsiy)<br>
   Redoc is an open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
 
+* **[graphql-js](https://github.com/graphql/graphql-js)** maintained by [Ivan Goncharov](https://github.com/IvanGoncharov)<br>
+  A reference implementation of GraphQL for JavaScript.
+
 ## > 5K ⭐️
 
 * **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/paulmillr)<br>
