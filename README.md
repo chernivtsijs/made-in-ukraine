@@ -65,6 +65,9 @@ If these conditions are met, feel free to open a PR!
 * **[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)** by [Alexander Shemetovskiy](https://github.com/alexkval)<br>
   ✈️ Bootstrap components built with React.
 
+* **[redoc](https://github.com/Redocly/redoc)** by [Roman Hotsiy](https://github.com/RomanHotsiy)<br>
+  Redoc is an open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
+
 * **[graphql-js](https://github.com/graphql/graphql-js)** maintained by [Ivan Goncharov](https://github.com/IvanGoncharov)<br>
   A reference implementation of GraphQL for JavaScript.
 
