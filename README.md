@@ -2,7 +2,7 @@
 
 # 🇺🇦 Made in Ukraine
 
-> Curating the best projects that were made and mainly contributed by Ukrainian developers
+> Curating the best projects that were made and heavily contributed to by Ukrainian developers
 
 ## Motivation
 
