@@ -102,6 +102,9 @@ If these conditions are met, feel free to open a PR!
 * **[Mock Service Worker](https://github.com/mswjs/msw)** by [Artem Zakharchenko](https://github.com/kettanaito)<br />
   Seamless REST/GraphQL API mocking library for browser and Node.js.
 
+* **[Clusterize.js](https://github.com/NeXTs/Clusterize.js)** by [Denys Lukov](https://github.com/NeXTs)<br />
+  Tiny vanilla JS plugin to display large data sets easily
+
 ## > 1K ⭐️
 
 * **[uashield](https://github.com/opengs/uashield)** by [opengs](https://github.com/opengs)<br>
@@ -220,6 +223,9 @@ If these conditions are met, feel free to open a PR!
   
 * **[Vite Electron Builder Boilerplate](https://github.com/cawa-93/vite-electron-builder)** by [Alex Kozack](https://github.com/cawa-93)<br>
   Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
+
+* **[Jets.js](https://github.com/NeXTs/Jets.js)** by [Denys Lukov](https://github.com/NeXTs)<br />
+  Native CSS search engine
 
 ## Articles about Ukrainian open source
 
