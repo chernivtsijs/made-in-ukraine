@@ -221,6 +221,9 @@ If these conditions are met, feel free to open a PR!
 * **[Vite Electron Builder Boilerplate](https://github.com/cawa-93/vite-electron-builder)** by [Alex Kozack](https://github.com/cawa-93)<br>
   Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 
+* **[django-ninja](https://github.com/vitalik/django-ninja)** by [Vitaliy Kucheryaviy](https://github.com/vitalik)<br>
+  🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
+
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
