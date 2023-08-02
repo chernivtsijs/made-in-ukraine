@@ -227,6 +227,9 @@ If these conditions are met, feel free to open a PR!
 * **[Jets.js](https://github.com/NeXTs/Jets.js)** by [Denys Lukov](https://github.com/NeXTs)<br />
   Native CSS search engine
 
+* **[django-ninja](https://github.com/vitalik/django-ninja)** by [Vitaliy Kucheryaviy](https://github.com/vitalik)<br>
+  🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
+
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
