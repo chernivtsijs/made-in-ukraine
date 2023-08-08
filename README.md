@@ -31,6 +31,9 @@ If these conditions are met, feel free to open a PR!
 
 ## > 10K ⭐️
 
+* **[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm)** by [Andrii Sherman](https://github.com/AndriiSherman) / [Aleksandr Blokh](https://github.com/AlexBlokh) / [Dan Kochetov](https://github.com/dankochetov)<br>
+  TypeScript ORM for SQL databases designed with maximum type safety in mind
+
 * **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
   🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
