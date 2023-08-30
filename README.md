@@ -233,6 +233,9 @@ If these conditions are met, feel free to open a PR!
 * **[django-ninja](https://github.com/vitalik/django-ninja)** by [Vitaliy Kucheryaviy](https://github.com/vitalik)<br>
   🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
 
+* **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
+  🦎 Use Tailwind CSS in React Native projects
+
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
