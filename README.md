@@ -108,6 +108,9 @@ If these conditions are met, feel free to open a PR!
 * **[Clusterize.js](https://github.com/NeXTs/Clusterize.js)** by [Denys Lukov](https://github.com/NeXTs)<br />
   Tiny vanilla JS plugin to display large data sets easily
 
+* **[django-ninja](https://github.com/vitalik/django-ninja)** by [Vitaliy Kucheryaviy](https://github.com/vitalik)<br>
+  🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
+  
 ## > 1K ⭐️
 
 * **[uashield](https://github.com/opengs/uashield)** by [opengs](https://github.com/opengs)<br>
@@ -229,9 +232,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[Jets.js](https://github.com/NeXTs/Jets.js)** by [Denys Lukov](https://github.com/NeXTs)<br />
   Native CSS search engine
-
-* **[django-ninja](https://github.com/vitalik/django-ninja)** by [Vitaliy Kucheryaviy](https://github.com/vitalik)<br>
-  🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
 
 * **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   🦎 Use Tailwind CSS in React Native projects
