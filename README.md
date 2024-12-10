@@ -19,6 +19,10 @@ This list includes projects under this criteria:
 
 If these conditions are met, feel free to open a PR!
 
+## Connect with Ukrainian OSS maintainers
+
+* Bluesky Starter Pack: [Ukrainian FOSS maintainers and their projects](https://bsky.app/starter-pack/webknjaz.me/3lbt5nu3vw22b)
+
 ## > 100K ⭐️
 
 * **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)** by [Oleksii Trekhleb](https://github.com/trekhleb)<br>
