@@ -21,7 +21,7 @@ If these conditions are met, feel free to open a PR!
 
 ## Ukrainian open source maintainers in the wild
 
-* Bluesky starter pack: https://bsky.app/starter-pack/webknjaz.me/3lbt5nu3vw22b
+* Bluesky Starter Pack: [Ukrainian FOSS maintainers and their projects](https://bsky.app/starter-pack/webknjaz.me/3lbt5nu3vw22b)
 
 ## > 100K ⭐️
 
