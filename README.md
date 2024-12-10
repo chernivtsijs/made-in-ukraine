@@ -19,7 +19,7 @@ This list includes projects under this criteria:
 
 If these conditions are met, feel free to open a PR!
 
-## Ukrainian open source maintainers in the wild
+## Connect with Ukrainian OSS maintainers
 
 * Bluesky Starter Pack: [Ukrainian FOSS maintainers and their projects](https://bsky.app/starter-pack/webknjaz.me/3lbt5nu3vw22b)
 
