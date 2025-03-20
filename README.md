@@ -246,6 +246,7 @@ If these conditions are met, feel free to open a PR!
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
+* [Єдиний українець у програмі GitHub Stars — про опенсорс-розробку, доходи з таких проєктів і зміну пріоритетів | DOU](https://dou.ua/lenta/interviews/ukrainian-in-github-stars/)
 * [Заробите гарну репутацію — вам більше не знадобиться LinkedIn. Українські розробники — про переваги участі в опенсорсі | DOU](https://dou.ua/lenta/articles/open-source-in-ukraine/)
 * [GitHub-аккаунты украинских ІТшников: зачем нужны, как раскручивали и советы новичкам | DOU](https://dou.ua/lenta/articles/quiz-github/)
 * [«Наши» на GitHub: рейтинг | DOU](https://dou.ua/lenta/articles/github-top-10/)
