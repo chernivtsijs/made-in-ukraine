@@ -240,6 +240,9 @@ If these conditions are met, feel free to open a PR!
 * **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)** by [Vadim Demedes](https://github.com/vadimdemedes)<br>
   🦎 Use Tailwind CSS in React Native projects
 
+* **[pypi-publish](https://github.com/marketplace/actions/pypi-publish)** by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+  The blessed GitHub Action, for publishing Python distribution packages to PyPI, the tokenless way. With automatic digital signatures.
+
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
