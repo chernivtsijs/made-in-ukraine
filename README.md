@@ -59,7 +59,7 @@ If these conditions are met, feel free to open a PR!
 * **[Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
   🚀⭐ A Zsh prompt for Astronauts
 
-* **[Leaflet](https://github.com/Leaflet/Leaflet)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Leaflet](https://github.com/Leaflet/Leaflet)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   🍃 JavaScript library for mobile-friendly interactive maps
 
 * **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)** by [Dmitry Semenov](https://github.com/sponsors/dimsemenov)<br>
@@ -141,34 +141,34 @@ If these conditions are met, feel free to open a PR!
 * **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
 
-* **[Pixelmatch](https://github.com/mapbox/pixelmatch)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Pixelmatch](https://github.com/mapbox/pixelmatch)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   The smallest, simplest and fastest JavaScript pixel-level image comparison library
 
-* **[Earcut](https://github.com/mapbox/earcut)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Earcut](https://github.com/mapbox/earcut)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
 
-* **[Delaunator](https://github.com/mapbox/delaunator)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Delaunator](https://github.com/mapbox/delaunator)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 
-* **[SuperCluster](https://github.com/mapbox/supercluster)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[SuperCluster](https://github.com/mapbox/supercluster)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   A very fast geospatial point clustering library for browsers and Node
 
-* **[GeoJson-VT](https://github.com/mapbox/geojson-vt)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[GeoJson-VT](https://github.com/mapbox/geojson-vt)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   Slice GeoJSON into vector tiles on the fly in the browser
 
-* **[FlameBearer](https://github.com/mapbox/flamebearer)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[FlameBearer](https://github.com/mapbox/flamebearer)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
    Blazing fast flame graph tool for V8 and Node 🔥
 
-* **[Bullshit.js](https://github.com/mourner/bullshit.js)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Bullshit.js](https://github.com/mourner/bullshit.js)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   A bookmarklet for translating marketing speak into human-readable text. 💩
 
-* **[RBush](https://github.com/mourner/rbush)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[RBush](https://github.com/mourner/rbush)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 
-* **[SunCalc](https://github.com/mourner/suncalc)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[SunCalc](https://github.com/mourner/suncalc)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   A tiny JavaScript library for calculating sun/moon positions and phases.
 
-* **[Simplify.js](https://github.com/mourner/simplify-js)** by [Vladimir Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Simplify.js](https://github.com/mourner/simplify-js)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   High-performance JavaScript polyline simplification library
 
 * **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy)<br>
