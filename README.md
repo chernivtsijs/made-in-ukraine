@@ -243,6 +243,9 @@ If these conditions are met, feel free to open a PR!
 * **[pypi-publish](https://github.com/marketplace/actions/pypi-publish)** authored and maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   The blessed GitHub Action, for publishing Python distribution packages to PyPI, the tokenless way. With automatic digital signatures.
 
+* **[PyPUG](https://github.com/pypa/packaging.python.org)** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) as a part of PyPA<br>
+  The "Python Packaging User Guide" (PyPUG) aims to be the authoritative resource on how to package and install distributions in Python using current tools.
+
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
