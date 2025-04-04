@@ -30,7 +30,7 @@ If these conditions are met, feel free to open a PR!
 
 ## > 50K ⭐️
 
-* **[Ansible](https://github.com/ansible/ansible)** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) / [Red Hat](https://redhat.com)<br>
+* **[Ansible](https://github.com/ansible/ansible)** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) as a part of the Code Dev Team at [Red Hat](https://redhat.com)<br>
   Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain.
 
 ## > 10K ⭐️
@@ -228,7 +228,7 @@ If these conditions are met, feel free to open a PR!
 * **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/sponsors/leits)<br>
   MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
 
-* **[CherryPy](https://github.com/cherrypy/cherrypy)** by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+* **[CherryPy](https://github.com/cherrypy/cherrypy)** maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   A Minimalist Python Web Framework.
   
 * **[Vite Electron Builder Boilerplate](https://github.com/cawa-93/vite-electron-builder)** by [Alex Kozack](https://github.com/sponsors/cawa-93)<br>
@@ -240,7 +240,7 @@ If these conditions are met, feel free to open a PR!
 * **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🦎 Use Tailwind CSS in React Native projects
 
-* **[pypi-publish](https://github.com/marketplace/actions/pypi-publish)** by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+* **[pypi-publish](https://github.com/marketplace/actions/pypi-publish)** authored and maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   The blessed GitHub Action, for publishing Python distribution packages to PyPI, the tokenless way. With automatic digital signatures.
 
 ## Articles about Ukrainian open source
