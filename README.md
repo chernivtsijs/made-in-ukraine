@@ -252,6 +252,9 @@ If these conditions are met, feel free to open a PR!
 * **[#StandWithUkraine banner for GitHub repos](https://github.com/vshymanskyy/StandWithUkraine)** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy), [Volodymyr Agafonkin](https://github.com/sponsors/mourner) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   This repository contains Readme Banners (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.
 
+* **[esp32-ai](https://github.com/slvDev/esp32-ai)** by [slvDev](https://github.com/slvDev)<br>
+  Running a 28.9M parameter LLM on a microcontroller
+
 ## Articles about Ukrainian open source
 
 * [Ask Ukrainian open-source developers about war — Twitter Space](https://www.youtube.com/watch?v=LeG09zu_p_g)
